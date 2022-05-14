@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_blocks_abouts",
+  "info": {
+    "displayName": "about",
+    "icon": "audio-description",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "aboutBg": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "aboutSubtitle": {
+      "type": "string"
+    },
+    "aboutTitle": {
+      "type": "string"
+    },
+    "aboutText": {
+      "type": "text"
+    }
+  }
+}
