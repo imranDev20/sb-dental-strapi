@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_block_child_slides",
+  "info": {
+    "displayName": "slides",
+    "icon": "images",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "slideImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "titleFirstLine": {
+      "type": "string"
+    },
+    "titleSecondLine": {
+      "type": "string"
+    }
+  }
+}

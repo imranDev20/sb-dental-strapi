@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blocks_heroes",
+  "info": {
+    "displayName": "hero",
+    "icon": "image",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "slides": {
+      "displayName": "slides",
+      "type": "component",
+      "repeatable": true,
+      "component": "block-child.slides"
+    }
+  }
+}

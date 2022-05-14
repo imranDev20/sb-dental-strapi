@@ -19,6 +19,12 @@
     "slug": {
       "type": "uid",
       "targetField": "title"
+    },
+    "blocks": {
+      "type": "dynamiczone",
+      "components": [
+        "blocks.hero"
+      ]
     }
   }
 }
