@@ -18,13 +18,10 @@
         "audios"
       ]
     },
-    "subtitle": {
+    "slideSubtitle": {
       "type": "string"
     },
-    "titleFirstLine": {
-      "type": "string"
-    },
-    "titleSecondLine": {
+    "slideTitle": {
       "type": "string"
     }
   }
