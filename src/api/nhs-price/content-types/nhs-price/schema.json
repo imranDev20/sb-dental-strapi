@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "nhs_prices",
+  "info": {
+    "singularName": "nhs-price",
+    "pluralName": "nhs-prices",
+    "displayName": "NHS Prices",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "cardTitle": {
+      "type": "string"
+    },
+    "cardPrice": {
+      "type": "string"
+    },
+    "nhsFeatures": {
+      "displayName": "nhsFeatures",
+      "type": "component",
+      "repeatable": true,
+      "component": "block-child.nhs-features"
+    }
+  }
+}

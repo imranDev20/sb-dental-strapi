@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blocks_contact_infos",
+  "info": {
+    "displayName": "contactInfo",
+    "icon": "phone-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "contactInfoBlock": {
+      "displayName": "contactInfoBlock",
+      "type": "component",
+      "repeatable": true,
+      "component": "block-child.contact-info-block"
+    }
+  }
+}

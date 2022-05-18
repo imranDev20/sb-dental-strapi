@@ -23,8 +23,10 @@
     "blocks": {
       "type": "dynamiczone",
       "components": [
-        "blocks.hero",
-        "blocks.about"
+        "blocks.about",
+        "blocks.contact-info",
+        "blocks.features",
+        "blocks.hero"
       ]
     }
   }

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_block_child_nhs_features",
+  "info": {
+    "displayName": "nhsFeatures",
+    "icon": "hand-point-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "nhsFeature": {
+      "type": "string"
+    }
+  }
+}

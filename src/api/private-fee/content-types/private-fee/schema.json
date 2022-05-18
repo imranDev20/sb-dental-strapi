@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "private_fees",
+  "info": {
+    "singularName": "private-fee",
+    "pluralName": "private-fees",
+    "displayName": "Private Fees",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "serviceName": {
+      "type": "string"
+    },
+    "servicesDetailed": {
+      "displayName": "serviceDetailed",
+      "type": "component",
+      "repeatable": true,
+      "component": "block-child.service-detailed"
+    }
+  }
+}

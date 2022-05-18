@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_block_child_contact_info_blocks",
+  "info": {
+    "displayName": "contactInfoBlock",
+    "icon": "envelope",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "blockIcon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "blockTitle": {
+      "type": "string"
+    },
+    "blockInfoFirst": {
+      "type": "string"
+    },
+    "blockInfoSecond": {
+      "type": "string"
+    }
+  }
+}

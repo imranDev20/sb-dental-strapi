@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_block_child_service_detaileds",
+  "info": {
+    "displayName": "servicesDetailed",
+    "icon": "server",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "serviceDetailedTitle": {
+      "type": "string"
+    },
+    "servicePrice": {
+      "type": "string"
+    }
+  }
+}
