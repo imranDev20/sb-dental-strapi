@@ -4,7 +4,7 @@
   "info": {
     "singularName": "page",
     "pluralName": "pages",
-    "displayName": "Pages",
+    "displayName": "Page",
     "description": ""
   },
   "options": {
@@ -25,8 +25,8 @@
       "components": [
         "blocks.about",
         "blocks.contact-info",
-        "blocks.features",
-        "blocks.hero"
+        "blocks.hero",
+        "blocks.home-features"
       ]
     }
   }

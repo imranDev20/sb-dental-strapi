@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "schedules",
+  "info": {
+    "singularName": "schedule",
+    "pluralName": "schedules",
+    "displayName": "Schedule"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "scheduleDayTime": {
+      "displayName": "ScheduleDayTime",
+      "type": "component",
+      "repeatable": true,
+      "component": "blocks.schedule-day-time"
+    }
+  }
+}

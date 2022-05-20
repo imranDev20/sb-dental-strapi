@@ -4,7 +4,7 @@
   "info": {
     "singularName": "nhs-price",
     "pluralName": "nhs-prices",
-    "displayName": "NHS Prices",
+    "displayName": "NHS Price",
     "description": ""
   },
   "options": {

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_schedule_day_times",
+  "info": {
+    "displayName": "ScheduleDayTime",
+    "icon": "clock"
+  },
+  "options": {},
+  "attributes": {
+    "day": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_blocks_home_features",
+  "info": {
+    "displayName": "homeFeatures",
+    "icon": "clipboard-list",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "featurePoints": {
+      "displayName": "featurePoints",
+      "type": "component",
+      "repeatable": true,
+      "component": "block-child.feature-points"
+    },
+    "featuredBlog": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::blog.blog"
+    },
+    "featureImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

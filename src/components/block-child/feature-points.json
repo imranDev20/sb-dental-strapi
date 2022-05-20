@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_block_child_feature_points",
+  "info": {
+    "displayName": "featurePoints",
+    "icon": "hand-point-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "featurePoint": {
+      "type": "string"
+    }
+  }
+}
