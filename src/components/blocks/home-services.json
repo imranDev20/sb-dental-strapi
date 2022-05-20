@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blocks_home_services",
+  "info": {
+    "displayName": "homeServices",
+    "icon": "hand-scissors",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "homeServiceBlock": {
+      "displayName": "homeServiceBlock",
+      "type": "component",
+      "repeatable": true,
+      "component": "block-child.home-service-block"
+    }
+  }
+}

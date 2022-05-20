@@ -26,7 +26,8 @@
         "blocks.about",
         "blocks.contact-info",
         "blocks.hero",
-        "blocks.home-features"
+        "blocks.home-features",
+        "blocks.home-services"
       ]
     }
   }

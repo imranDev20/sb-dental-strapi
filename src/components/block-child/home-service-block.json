@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_block_child_home_service_blocks",
+  "info": {
+    "displayName": "homeServiceBlock",
+    "icon": "adjust",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "serviceImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "serviceName": {
+      "type": "string"
+    },
+    "serviceText": {
+      "type": "text"
+    }
+  }
+}
