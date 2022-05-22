@@ -2,7 +2,8 @@
   "collectionName": "components_blocks_schedule_day_times",
   "info": {
     "displayName": "ScheduleDayTime",
-    "icon": "clock"
+    "icon": "clock",
+    "description": ""
   },
   "options": {},
   "attributes": {

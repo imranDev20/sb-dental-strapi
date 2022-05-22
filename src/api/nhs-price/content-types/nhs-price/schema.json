@@ -22,7 +22,7 @@
       "displayName": "nhsFeatures",
       "type": "component",
       "repeatable": true,
-      "component": "block-child.nhs-features"
+      "component": "pricing.nhs-features"
     }
   }
 }

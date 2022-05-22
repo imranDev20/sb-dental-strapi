@@ -19,7 +19,7 @@
       "displayName": "serviceDetailed",
       "type": "component",
       "repeatable": true,
-      "component": "block-child.service-detailed"
+      "component": "pricing.service-detailed"
     }
   }
 }

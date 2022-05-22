@@ -23,11 +23,12 @@
     "blocks": {
       "type": "dynamiczone",
       "components": [
-        "blocks.about",
-        "blocks.contact-info",
-        "blocks.hero",
-        "blocks.home-features",
-        "blocks.home-services"
+        "home.about",
+        "contact.contact-info",
+        "home.hero",
+        "home.home-features",
+        "home.home-services",
+        "services.services-on-page"
       ]
     }
   }

@@ -11,7 +11,7 @@
       "displayName": "featurePoints",
       "type": "component",
       "repeatable": true,
-      "component": "block-child.feature-points"
+      "component": "home.feature-points"
     },
     "featuredBlog": {
       "type": "relation",
@@ -19,14 +19,15 @@
       "target": "api::blog.blog"
     },
     "featureImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
     }
   }
 }

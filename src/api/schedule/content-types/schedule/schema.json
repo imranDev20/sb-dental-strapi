@@ -15,7 +15,7 @@
       "displayName": "ScheduleDayTime",
       "type": "component",
       "repeatable": true,
-      "component": "blocks.schedule-day-time"
+      "component": "schedule.schedule-day-time"
     }
   }
 }

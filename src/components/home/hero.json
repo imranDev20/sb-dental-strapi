@@ -11,7 +11,7 @@
       "displayName": "slides",
       "type": "component",
       "repeatable": true,
-      "component": "block-child.slides"
+      "component": "home.slides"
     }
   }
 }

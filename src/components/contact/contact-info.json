@@ -11,7 +11,7 @@
       "displayName": "contactInfoBlock",
       "type": "component",
       "repeatable": true,
-      "component": "block-child.contact-info-block"
+      "component": "contact.contact-info-block"
     }
   }
 }

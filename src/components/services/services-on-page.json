@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blocks_services_on_pages",
+  "info": {
+    "displayName": "ServicesOnPage",
+    "icon": "pager",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "serviceName": {
+      "type": "string"
+    }
+  }
+}

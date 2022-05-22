@@ -11,7 +11,7 @@
       "displayName": "homeServiceBlock",
       "type": "component",
       "repeatable": true,
-      "component": "block-child.home-service-block"
+      "component": "home.home-service-block"
     }
   }
 }
