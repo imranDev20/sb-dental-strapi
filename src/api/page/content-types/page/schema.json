@@ -23,13 +23,18 @@
     "blocks": {
       "type": "dynamiczone",
       "components": [
-        "home.about",
         "contact.contact-info",
+        "home.about",
         "home.hero",
         "home.home-features",
         "home.home-services",
         "services.services-on-page"
       ]
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
     }
   }
 }

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_global_not_founds",
+  "info": {
+    "displayName": "notFound",
+    "icon": "globe-africa",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "notFoundTitle": {
+      "type": "string"
+    },
+    "notFoundText": {
+      "type": "string"
+    },
+    "notFoundImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
