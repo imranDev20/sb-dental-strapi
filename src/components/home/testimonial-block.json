@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_home_testimonial_blocks",
+  "info": {
+    "displayName": "testimonialBlock",
+    "icon": "quote-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "testimonialAvatar": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "testimonialTitle": {
+      "type": "string"
+    },
+    "testimonialText": {
+      "type": "string"
+    },
+    "testimonialName": {
+      "type": "string"
+    }
+  }
+}

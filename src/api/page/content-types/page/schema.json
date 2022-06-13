@@ -28,7 +28,8 @@
         "home.hero",
         "home.home-features",
         "home.home-services",
-        "services.services-on-page"
+        "services.services-on-page",
+        "home.testimonial"
       ]
     },
     "seo": {

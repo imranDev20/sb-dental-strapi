@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_home_testimonials",
+  "info": {
+    "displayName": "testimonial",
+    "icon": "quote-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "testimonialBlock": {
+      "displayName": "testimonialBlock",
+      "type": "component",
+      "repeatable": true,
+      "component": "home.testimonial-block"
+    }
+  }
+}
