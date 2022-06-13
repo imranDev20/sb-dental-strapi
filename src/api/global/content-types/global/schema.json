@@ -28,6 +28,26 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::page.page"
+    },
+    "contactInfo": {
+      "displayName": "contactInfo",
+      "type": "component",
+      "repeatable": false,
+      "component": "global.contact-info"
+    },
+    "logo": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "scheduleText": {
+      "type": "string"
     }
   }
 }

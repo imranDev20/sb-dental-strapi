@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_global_contact_infos",
+  "info": {
+    "displayName": "contactInfo",
+    "icon": "phone"
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    }
+  }
+}
