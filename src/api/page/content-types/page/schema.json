@@ -29,7 +29,8 @@
         "home.home-features",
         "home.home-services",
         "services.services-on-page",
-        "home.testimonial"
+        "home.testimonial",
+        "home.dentist"
       ]
     },
     "seo": {

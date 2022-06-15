@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_home_dentists",
+  "info": {
+    "displayName": "dentist",
+    "icon": "teeth"
+  },
+  "options": {},
+  "attributes": {
+    "dentistHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.header"
+    }
+  }
+}

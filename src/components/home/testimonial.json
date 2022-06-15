@@ -12,6 +12,11 @@
       "type": "component",
       "repeatable": true,
       "component": "home.testimonial-block"
+    },
+    "testimonialHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.header"
     }
   }
 }
