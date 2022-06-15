@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_global_socials",
+  "info": {
+    "displayName": "socials",
+    "icon": "people-carry"
+  },
+  "options": {},
+  "attributes": {
+    "facebookLink": {
+      "type": "string"
+    },
+    "twitterLink": {
+      "type": "string"
+    },
+    "instagramLink": {
+      "type": "string"
+    }
+  }
+}

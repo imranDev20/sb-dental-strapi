@@ -48,6 +48,12 @@
     },
     "scheduleText": {
       "type": "string"
+    },
+    "socials": {
+      "displayName": "socials",
+      "type": "component",
+      "repeatable": false,
+      "component": "global.socials"
     }
   }
 }
