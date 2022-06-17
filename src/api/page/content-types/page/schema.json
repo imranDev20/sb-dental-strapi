@@ -25,12 +25,13 @@
       "components": [
         "contact.contact-info",
         "home.about",
+        "home.dentist",
         "home.hero",
         "home.home-features",
         "home.home-services",
-        "services.services-on-page",
         "home.testimonial",
-        "home.dentist"
+        "services.services-on-page",
+        "home.home-contact-form"
       ]
     },
     "seo": {

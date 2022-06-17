@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_home_home_contact_forms",
+  "info": {
+    "displayName": "homeContactForm",
+    "icon": "phone-volume",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "homeFormTitle": {
+      "type": "string"
+    },
+    "homeFormText": {
+      "type": "text"
+    },
+    "homeFormButton": {
+      "type": "string"
+    },
+    "homeFormImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
